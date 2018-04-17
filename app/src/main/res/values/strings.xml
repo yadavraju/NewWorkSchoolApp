@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Raju School App</string>
+    <string name="action_call">Call: 4256108397</string>
+    <string name="action_settings">Setting</string>
+    <string name="no_internet_connection">No internet connection!</string>
+    <string name="retry">RETRY</string>
+    <string name="transition_image">image</string>
+</resources>
